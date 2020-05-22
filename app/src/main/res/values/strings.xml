@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="authorization">Authorization</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="own">own</string>
+    <string name="surname">surname</string>
+    <string name="name">name</string>
+    <string name="log_out">Log Out</string>
+</resources>
